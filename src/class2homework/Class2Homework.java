@@ -14,7 +14,7 @@ public class Class2Homework {
         maryObject.setAge(28);
         
         System.out.println(johnObject.getFullName() + " is " + johnObject.getAge() + " years old");
-        System.out.println(maryObject.getFullName() + " is " + maryObject.getAge() + " years old");    
+        System.out.println(maryObject.getFullName() + " is " + maryObject.getAge() + " years old");   
     }
     
 }
